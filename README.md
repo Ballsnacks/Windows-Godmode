@@ -2,7 +2,7 @@
 
 If you replace the .ico make sure to resize in the .ini!
 
-> Should work on any version.  
+> It should work on any version.  
 
 ![](https://github.com/Ballsnacks/Windows-Godmode-for-Rainmeter/blob/master/@Resources/Images/Example.PNG?raw=true)
 
